@@ -1,0 +1,20 @@
+#Keil MDK编译产物
+mdk/Objects/
+mdk/Listings/
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.o
+*.d
+*.crf
+*.dep
+*.htm
+*.sct
+
+#工程缓存文件
+*.bak
+*.uvguix.*
+*.log
+.DS_Store
